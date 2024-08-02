@@ -65,3 +65,8 @@ This is one way to run your app — you can also run it directly from within And
 This starter uses generic text in several places both for descriptions and file names. This needs to be updated to match project naming. Some known replacements:
 
 	1. composer.json : update project name, details, URL, etc
+
+
+# Note
+
+Currently we have push the code for react native version 0.72.14. We are working on to upgrade react native vesrion 0.74.1, but we are facing some issue so we will resolve it and push the latest code in the new repository.
