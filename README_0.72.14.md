@@ -60,6 +60,25 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
+## Task
+
+Below are the tasks to complete the react native version 0.72.14:
+
+1. Add Login Screen: Implement a login screen with Google sign-in and two-factor authentication (2FA) using Firebase for mobile OTP.
+2. Add Splash Screen: Introduce a splash screen for the application.
+3. Secure Todo Screen: Ensure the todo screen is accessible only to authenticated users using Tab navigation.
+4. Infinite Scrolling for Todo Page: Implement infinite scrolling on the todo page.
+5. Add Profile Screen: Create a profile screen to display user profile information using Tab navigation.
+6. Dark Mode Toggle: Add a toggle option for dark mode.
+7. Update Todo Functionality: Implement update functionality for todos using a Modal/Dialog.
+8. Feedback for Adding Todo: Provide toast notifications or appropriate feedback when adding a todo.
+9. Handle States: Manage error and loading states for each action.
+10. Validation Helper Text: Add helper text for error validation.
+11. Unit Tests: Write unit tests for each component.
+12. Change Package Name and Bundle ID: Update the package name and bundle ID to dev.scopex.[your_github].
+13. Update App Icon: Change the app icon to one of your choice.
+14. Change Font: Change the app's font to Fira Code from https://fonts.google.com/specimen/Fira+Code
+
 #### Updating Naming
 
 This starter uses generic text in several places both for descriptions and file names. This needs to be updated to match project naming. Some known replacements:
